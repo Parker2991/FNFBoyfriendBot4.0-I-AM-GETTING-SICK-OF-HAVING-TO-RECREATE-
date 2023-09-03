@@ -1,0 +1,16 @@
+{
+      "host": "kaboom.pw",
+  
+      "version":"1.20.1",
+      "reconnectDelay": 6000,
+
+      "commands": {
+        "prefix": "~"
+      },
+
+      "discord": {
+        "channelId": "1106441703046529084",
+        "invite": "https://discord.gg/GCKtG4erux",
+        "commandPrefix": "~"
+      }
+    }, 
